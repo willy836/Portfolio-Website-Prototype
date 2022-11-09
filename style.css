@@ -1,0 +1,8 @@
+.recent {
+  display: flex;
+}
+
+.line {
+  width: 70%;
+  margin-left: 2%;
+}
