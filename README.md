@@ -41,9 +41,9 @@ This project can be used to practice bootstrap5
 
 👤 **Monicah Wanjema**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- GitHub: [@githubhandle](https://github.com/monicah79)
+- Twitter: [@twitterhandle](https://twitter.com/MonicahWanjema)
+- LinkedIn: [LinkedIn](https://linkedin.com/in/monica-wanjema-079192193/)
 
 ## 🤝 Contributing
 
